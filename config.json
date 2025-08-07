@@ -91,6 +91,11 @@
       "name": "恐怖",
       "type": "movie",
       "query": "恐怖"
+    },
+         {
+      "name": "动作",
+      "type": "movie",
+      "query": "动作"
     }
   ]
 }
