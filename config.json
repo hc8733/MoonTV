@@ -116,11 +116,6 @@
       "name": "悬疑",
       "type": "movie",
       "query": "悬疑"
-    },
-         {
-      "name": "短剧",
-      "type": "tv",
-      "query": "短剧"
     }
   ]
 }
